@@ -1,0 +1,1 @@
+INSERT INTO USER (username, password, roles, active) VALUES ('NEHA', 'NEHA', 'USER', true), ('TEST', 'TEST', 'USER', true);
